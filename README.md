@@ -12,4 +12,4 @@
 
 * [link do jogo controle c/ musicas originais do Final Fantasy)](https://drive.google.com/file/d/1D0PWVblIWdvu3yEQXXFX99ZuK6ajmX5y/view?usp=sharing)
 
-* [Link do Formulario de pesquisa] (https://forms.gle/AxpCcqreuStUsTmH8)
+* [Link do Formulario de pesquisa](https://forms.gle/AxpCcqreuStUsTmH8)
